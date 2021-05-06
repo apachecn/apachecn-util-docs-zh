@@ -10,6 +10,9 @@
 
 ## 目录
 
++	[Git 中文文档](doc/git-doc-zh)
++	[Gitlab 中文文档](doc/gitlab-doc-zh)
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
